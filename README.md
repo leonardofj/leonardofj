@@ -5,5 +5,5 @@ Currently living in Berlin, Germany. 🇩🇪
 
 ---
 
-**contact:** `leonardofj@gmail.com`
+**Contact:** [leonardofj@gmail.com](mailto:leonardofj@gmail.com)
 
