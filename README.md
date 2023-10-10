@@ -1,5 +1,5 @@
 ## Hi there! 
-I'm Leo
+**I'm Leo**
 ---
 
 **contact:** `leonardofj@gmail.com`
